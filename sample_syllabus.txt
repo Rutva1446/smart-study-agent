@@ -1,0 +1,25 @@
+Introduction to Computer Science Syllabus
+
+Course Overview:
+This course introduces the fundamental concepts of computer science and programming using Python.
+
+Syllabus Topics:
+Topic 1: Programming Basics
+- Variables and Data Types
+- Control Flow (if/else statements, loops)
+- Functions and Scope
+
+Topic 2: Data Structures
+- Lists and Tuples
+- Dictionaries and Key-Value pairs
+- Sets and Operations
+
+Topic 3: Object-Oriented Programming
+- Classes and Objects
+- Attributes and Methods
+- Inheritance and Polymorphism
+
+Topic 4: Basic Algorithms
+- Linear and Binary Search
+- Bubble Sort and Merge Sort
+- Time Complexity and Big-O notation
